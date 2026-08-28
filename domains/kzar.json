@@ -3,7 +3,7 @@
         "username": "zarryweeden"
     },
     "records": {
-        "CNAME": "zarryweeden.github.io",
+        "CNAME": "kzarr.netlify.app",
         "MX": [
             {
                 "exchange": "mx1.forwardemail.net",
@@ -15,7 +15,7 @@
             }
         ],
         "TXT": [
-            "forward-email=zarryochola@gmail.com"
+            "forward-email=ocholazarry@gmail.com"
         ]
     }
 }

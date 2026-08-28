@@ -1,0 +1,20 @@
+{
+    "owner": {
+        "username": "kzar"  // Replace with your GitHub username
+    },
+    "records": {
+        "MX": [
+            {
+                "exchange": "mx1.forwardemail.net",
+                "priority": 10
+            },
+            {
+                "exchange": "mx2.forwardemail.net",
+                "priority": 10
+            }
+        ],
+        "TXT": [
+            "forward-email=ocholazarry@gmail.com"  // Replace with your real Gmail
+        ]
+    }
+}

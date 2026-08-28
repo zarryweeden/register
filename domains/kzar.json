@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "zarryweeden"  // Replace with your GitHub username
+        "username": "zarryweeden"
     },
     "records": {
+        "CNAME": "zarryweeden.github.io",
         "MX": [
             {
                 "exchange": "mx1.forwardemail.net",
@@ -14,7 +15,7 @@
             }
         ],
         "TXT": [
-            "forward-email=ocholazarry@gmail.com"  // Replace with your real Gmail
+            "forward-email=zarryochola@gmail.com"
         ]
     }
 }

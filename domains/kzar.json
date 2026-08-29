@@ -3,7 +3,7 @@
         "username": "zarryweeden"
     },
     "records": {
-        "CNAME": "kzarr.netlify.app",
+        "A": ["75.2.60.5"],
         "MX": [
             {
                 "exchange": "mx1.forwardemail.net",
